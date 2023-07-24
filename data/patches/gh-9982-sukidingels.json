@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Suki(dingels)",
+	"description": "Sukidingels is a german VTuber and VStreamer. Her mascot is the giant panda",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/sukidingels"
+		]
+	},
+	"path": {
+		"204": [
+			[
+				1154,
+				-965
+			],
+			[
+				1178,
+				-965
+			],
+			[
+				1178,
+				-1000
+			],
+			[
+				1154,
+				-1000
+			]
+		]
+	},
+	"center": {
+		"204": [
+			1166,
+			-982
+		]
+	}
+}
